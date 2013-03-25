@@ -1,5 +1,6 @@
 *.mo
 tags
+minitage.*
 tags.python
 plone.env
 t
