@@ -25,6 +25,10 @@
     -->
   <stylesheet
       id="++resource++collective.js.chosen/chosen.css"
+      enabled="0"
+    />
+  <stylesheet
+      id="++resource++collective.js.chosen/chosen.min.css"
       enabled="1"
     />
 </object>
