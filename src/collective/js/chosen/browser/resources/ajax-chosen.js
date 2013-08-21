@@ -66,7 +66,7 @@
                 return $("<option />").attr('value', value).html(text).appendTo(select);
               }
             });
-            select.trigger("liszt:updated");
+            select.trigger("chosen:updated");
             if (success != null) {
               success(data);
             }
