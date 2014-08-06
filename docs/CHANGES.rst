@@ -1,10 +1,16 @@
 Changelog
 =========
 
-1.3 (unreleased)
+1.5 (unreleased)
 ----------------
 
 - Nothing changed yet.
+
+
+1.4 (2013-03-25)
+----------------
+
+- merge css problem
 
 
 1.2 (2012-06-05)
